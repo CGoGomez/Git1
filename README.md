@@ -2,7 +2,7 @@
 
 ## Indice
 
-1. Introducción
+1. [Introducción](introduccion.md)
 2. ¿Qué es un administrador de sistemas?
 3. ¿Qué es un VBox?
 
